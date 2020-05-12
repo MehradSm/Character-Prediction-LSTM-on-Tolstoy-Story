@@ -4,5 +4,5 @@ In this project we will train a character prediction LSTM that predicts the next
 
 More details provided in the [CharLSTM.ipynb](https://github.com/MehradSm/Character-Prediction-LSTM-on-Tolstoy-Story/blob/master/CharLSTM.ipynb) jupyter notebook file. 
 
-This project has been done by me under supervision of Prof. Brian Kulis. 
+This project has been done by me under the supervision of Prof. Brian Kulis. 
 
